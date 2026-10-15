@@ -1,0 +1,13 @@
+.venv/
+.venv312/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+data/tasks/
+data/drafts/
+.DS_Store
+data/aicte_response.json
+data/internships.xlsx

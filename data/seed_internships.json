@@ -1,0 +1,19 @@
+
+[
+  {
+    "company": "Demo Technologies",
+    "role": "Software Engineering Intern",
+    "eligibility": "Verify eligibility on the official careers page",
+    "deadline": "Not verified",
+    "application_url": "https://example.com/careers/software-intern",
+    "source": "Demo record - not a real verified vacancy"
+  },
+  {
+    "company": "Sample AI Labs",
+    "role": "Machine Learning Intern",
+    "eligibility": "Verify eligibility on the official careers page",
+    "deadline": "Not verified",
+    "application_url": "https://example.org/jobs/ml-intern",
+    "source": "Demo record - not a real verified vacancy"
+  }
+]
